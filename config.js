@@ -69,7 +69,7 @@ global.tekspushcontact = "Izin Push"
 global.typemenu = "v6"
 // Ini type menu nya
 // v1 - v2 - v3 - v4 - v5 - v6
-global.typeallmenu = "v5"
+global.typeallmenu = "v6"
 // Ini type allmenu nya
 // v1 - v2 - v3 - v4 - v5 - v6
 global.game = true
@@ -88,7 +88,7 @@ global.antiBot = true
 // False (Nonaktifin)
 global.pengingat = true
 // False (Nonaktifin)
-global.autoTyping = true
+global.autoTyping = false
 // False (Nonaktifin)
 global.autoBio = true
 // False (Nonaktifin)
